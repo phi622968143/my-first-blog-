@@ -1,0 +1,30 @@
+ .body {    
+ 
+            background-image: url('shigatsu-wa-kimi-no-uso-episode-1-10.jpg');
+            background-repeat: no-repeat;
+            background-attachment: scroll;
+            background-position:center center;
+            background-size: cover;
+        }	
+.header{
+	width: 100%;
+	height: 100%;
+}
+.wrapper{
+	width: 970px;
+	height:300px;
+	margin:30px auto 40px;
+}
+.main{
+	display: block;
+	float: left;
+	
+	
+}
+.sidemenu{
+float:right;
+width:275px
+
+}
+
+
